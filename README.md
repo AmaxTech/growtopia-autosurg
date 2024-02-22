@@ -16,11 +16,11 @@ Step 3 --> Switch Real time protection off
               
 ### Running the program, and usage
           
-step 1 --> Run the Amax Autosurg V3.6.exe
-step 2 --> Open Growtopia
-step 3 --> just use /autosurg to enable autosurgery
-step 4 --> then make sure you have a good supply of tools in your inventory
-step 5 --> then just wrench on a Surg-E and wait for the surgery to finish, before wrenching another one (takes a few seconds)
-step 6 --> /autosurg to disable
+step 1 --> Run the Amax Autosurg V3.6.exe                              
+step 2 --> Open Growtopia                    
+step 3 --> just use /autosurg to enable autosurgery                                
+step 4 --> then make sure you have a good supply of tools in your inventory                                                
+step 5 --> then just wrench on a Surg-E and wait for the surgery to finish, before wrenching another one (takes a few seconds)                                        
+step 6 --> /autosurg to disable                        
           
 Enjoy!
