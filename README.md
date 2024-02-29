@@ -23,4 +23,4 @@ step 4 --> then make sure you have a good supply of tools in your inventory
 step 5 --> then just wrench on a Surg-E and wait for the surgery to finish, before wrenching another one (takes a few seconds)                                        
 step 6 --> /autosurg to disable it :)                        
           
-Enjoy surgering!
+Enjoy!
