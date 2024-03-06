@@ -1,6 +1,6 @@
 # Amax Autosurg V3.60
                         
-Works in Growtopia V4.50
+Works in Growtopia V4.51
 
 ### How to Download and Install
             
@@ -24,3 +24,6 @@ step 5 --> then just wrench on a Surg-E and wait for the surgery to finish, befo
 step 6 --> /autosurg to disable it :)                        
           
 Enjoy ;)
+                    
+// 7.3.2024                       
+App still works in Growtopia V4.51
