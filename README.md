@@ -25,5 +25,5 @@ step 6 --> /autosurg to disable it :)
           
 Enjoy ;)
                     
-// 12.3.2024                     
-App still works in Growtopia V4.51 :)
+// 15.3.2024                     
+App still works in Growtopia V4.51 and in the ST. Patric's day update. 😄
