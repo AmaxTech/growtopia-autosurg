@@ -1,6 +1,6 @@
 # Amax Autosurg V3.60
                         
-Works in Growtopia V4.51
+Works in Growtopia V4.52
 
 ### How to Download and Install
             
@@ -25,5 +25,5 @@ step 6 --> /autosurg to disable it :)
           
 Enjoy ;)
  
-// 26.3.2024                        
-App still works in Growtopia V4.51!
+// 27.3.2024                        
+App still works in Growtopia V4.52!
